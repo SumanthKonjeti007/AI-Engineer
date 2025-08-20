@@ -1,4 +1,4 @@
-# Personalized Compliment Agent with LangGraph
+# (Hands-on) Personalized Compliment Agent with LangGraph
 
 This project implements the **Exercise for Graph I** from the LangGraph Complete Course - creating a Personalized Compliment Agent that demonstrates **state concatenation** (not replacement) as required.
 
